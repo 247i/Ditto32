@@ -156,7 +156,7 @@
 		<Item English_Text = "Quick Paste Text" ID = "2125">விரைவு ஒட்டு உரை</Item>
 	</Ditto_Clip_Properties>
 	<Ditto_Options_General>
-		<Item English_Text = "Start Ditto on System Startup" ID = "2004">கணினி தொடக்கத்தில் அமோதியைத் தொடங்கு</Item>
+		<Item English_Text = "Start Ditto on System Startup" ID = "2004">கணினி தொடக்கத்தில் மேற்படியேயைத் தொடங்கு</Item>
 		<Item English_Text = "Display Icon in System Tray" ID = "2003">கணினி தட்டில் உருவம் காண்பி</Item>
 		<Item English_Text = "Maximum Number of Saved Copies" ID = "2008">சேமிக்கப்பட்ட நகல்களின் அதிகபட்ச எண்ணிக்கை</Item>
 		<Item English_Text = "Paste Entries Expire after" ID = "2009">ஒட்டு உள்ளீடுகள் இதற்க்குப் பிறகு காலாவதியாகும்</Item>
@@ -166,7 +166,7 @@
 		<Item English_Text = "Allow Duplicates" ID = "1037">நகல்களை அனுமதி</Item>
 		<Item English_Text = "Update Clip Order On Paste" ID = "1038">ஒட்டுதலில் இடைநிலைப் பலகை ஒழுங்கு புதுப்பிக்கவும்</Item>
 		<Item English_Text = "Save Multi-Pastes" ID = "1039">பல-ஒட்டுகளைச் சேமி</Item>
-		<Item English_Text = "Hide Ditto on Hot Key if Ditto is Visible" ID = "1040">அமோதி தெரிந்தால் அமோதியை சூடான விசையில் மறைக்கவும்</Item>
+		<Item English_Text = "Hide Ditto on Hot Key if Ditto is Visible" ID = "1040">மேற்படியே தெரிந்தால் மேற்படியேயை சூடான விசையில் மறைக்கவும்</Item>
 		<Item English_Text = "Amount of text to save for description" ID = "2044">விளக்கத்திற்காக சேமிக்க வேண்டிய உரை அளவு</Item>
 		<Item English_Text = "On copy play the sound" ID = "2045">நகலில் ஒலியை இயக்கவும்</Item>
 		<Item English_Text = "Play" ID = "2034">இயக்கு</Item>
@@ -177,7 +177,7 @@
 		<Item English_Text = "Language" ID = "2069">மொழி</Item>
 		<Item English_Text = "Ignore copies that occur X milliseconds from the last copy (1000 ms = 1 sec)" ID = "2072">கடைசி பிரதியிலிருந்து (1000 எம்எஸ் = 1 நொடி) எக்சு மில்லி விநாடிகளில் நிகழும் நகல்களை புறக்கணிக்கவும்</Item>
 		<Item English_Text = "About Language" ID = "2073">மொழியைப் பற்றி</Item>
-		<Item English_Text = "Ensure Ditto is always connected to the clipboard" ID = "1042">அமோதி எப்போதும் இடைநிலைப் பலகைபோர்டுடன் இணைக்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்</Item>
+		<Item English_Text = "Ensure Ditto is always connected to the clipboard" ID = "1042">மேற்படியே எப்போதும் இடைநிலைப் பலகைபோர்டுடன் இணைக்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்</Item>
 		<Item English_Text = "General" ID = "-1" PropertyPage = "true">பொது</Item>
 		<Item English_Text = "Multi-Paste clip separator ([LF] = line feed)" ID = "2090">பல-ஒட்டு இடைநிலைப் பலகை பிரிப்பான் ([எல்.எஃப்] = வரி ஊட்டம்)</Item>
 		//New item added 3/1/11
@@ -207,7 +207,7 @@
 	</Ditto_Options_Supported_Types>
 	
 	<Ditto_Options_Shortcuts>
-		<Item English_Text = "Activate Ditto" ID = "2048">அமோதியைச் செயலாக்கு</Item>
+		<Item English_Text = "Activate Ditto" ID = "2048">மேற்படியேயைச் செயலாக்கு</Item>
 		<Item English_Text = "Win" ID = "2035">சாளரம்</Item>
 		<Item English_Text = "Named Copy" ID = "2049">பெயரிடப்பட்ட நகல்</Item>
 		<Item English_Text = "Win" ID = "2036">சாளரம்</Item>
@@ -240,13 +240,13 @@
 		//Added 1/10/15
 		<Item English_Text = "Move clips to the top of the list on paste" ID = "1043">ஒட்டுகளில் இடைநிலைப் பலகைகளை பட்டியலின் மேலே நகர்த்தவும்</Item>
 		//Added 12/17/16
-		<Item English_Text = "Activate Ditto" ID = "2064">அமோதியைச் செயலாக்கு</Item>
-		<Item English_Text = "Activate Ditto" ID = "2066">அமோதியைச் செயலாக்கு</Item>
+		<Item English_Text = "Activate Ditto" ID = "2064">மேற்படியேயைச் செயலாக்கு</Item>
+		<Item English_Text = "Activate Ditto" ID = "2066">மேற்படியேயைச் செயலாக்கு</Item>
 		<Item English_Text = "Win" ID = "2063">சாளரம்</Item>
 		<Item English_Text = "Win" ID = "2065">சாளரம்</Item>
 		<Item English_Text = "Save Current Clipboard" ID = "2062">தற்போதைய இடைநிலைப் பலகைபோர்டைச் சேமி</Item>
 		<Item English_Text = "Win" ID = "2047">சாளரம்</Item>
-		<Item English_Text = "Use currently selected group in Ditto's UI for last ten copies" ID = "1044">கடைசி பத்து நகல்களுக்கு அமோதியின் UI இல் தற்போது தேர்ந்தெடுக்கப்பட்ட குழுவைப் பயன்படுத்தவும்</Item>
+		<Item English_Text = "Use currently selected group in Ditto's UI for last ten copies" ID = "1044">கடைசி பத்து நகல்களுக்கு மேற்படியேயின் UI இல் தற்போது தேர்ந்தெடுக்கப்பட்ட குழுவைப் பயன்படுத்தவும்</Item>
 	</Ditto_Options_Shortcuts>
 	
 
@@ -318,20 +318,20 @@
 		<Item English_Text = "Friends" ID = "FriendsTitle">நண்பர்கள்</Item>
 		<Item English_Text = "Quick Paste" ID = "QuickPasteTitle">விரைவு ஒட்டு</Item>
 		<Item English_Text = "Keyboard Shortcuts" ID = "KeyboardShortcutsTitle">விசைப்பலகை குறுக்குவழிகள்</Item>
-		<Item English_Text = "About Ditto" ID = "AboutTitle">அமோதியைப் பற்றி</Item>
+		<Item English_Text = "About Ditto" ID = "AboutTitle">மேற்படியேயைப் பற்றி</Item>
 		<Item English_Text = "Error Opening Database." ID = "Error_Opening_Database">தரவுத்தளத்தைத் திறப்பதில் பிழை.</Item>
 		<Item English_Text = "Unable to initialize DAO/Jet db engine.\nSelect YES to download DAO from http://ditto-cp.sourceforge.net/dao_setup.exe\n\nRestart Ditto after installation of DAO." ID = "Error_Init_Dao">DAO / Jet db இயந்திரத்தை துவக்க முடியவில்லை. DA n DAO ஐ நிறுவிய பின் DAO ஐ http://ditto-cp.sourceforge.net/dao_setup.exe\n\nRestart டிட்டோவிலிருந்து பதிவிறக்கம் செய்ய ஆம் என்பதைத் தேர்ந்தெடுக்கவும்.</Item>
 		<Item English_Text = "Unrecognized Database Format" ID = "Database_Format">அங்கீகரிக்கப்படாத தரவுத்தள வடிவமைப்பு</Item>
 		<Item English_Text = "the file will be renamed" ID = "File_Renamed">கோப்பின் பெயர் மறுபெயரிடப்படும் </Item>
 		<Item English_Text = "and a new database will be created" ID = "New_Database">மற்றும் ஒரு புதிய தரவுத்தளம் உருவாக்கப்படும்</Item>
-		<Item English_Text = "Updates available for Ditto.\nVisit ditto-cp.sourceforge.net for details\n\nRunning Version" ID = "Updates_Available">அமோதியிற்கான புதுப்பிப்புகள் கிடைக்கின்றன. Details \n விவரங்களுக்கு ditto-cp.sourceforge.net ஐப் பார்வையிடவும் \n \n இயங்கும் பதிப்பு</Item>
+		<Item English_Text = "Updates available for Ditto.\nVisit ditto-cp.sourceforge.net for details\n\nRunning Version" ID = "Updates_Available">மேற்படியேயிற்கான புதுப்பிப்புகள் கிடைக்கின்றன. Details \n விவரங்களுக்கு ditto-cp.sourceforge.net ஐப் பார்வையிடவும் \n \n இயங்கும் பதிப்பு</Item>
 		<Item English_Text = "Update Version" ID = "Update_Version">பதிப்பைப் புதுப்பித்தல்</Item>
 		<Item English_Text = "Download updated version?" ID = "Download_Update">புதுப்பிக்கப்பட்ட பதிப்பைப் பதிவிறக்கவா?</Item>
 		<Item English_Text = "No updates available" ID = "No_Updates">புதுப்பிப்புகள் எதுவும் கிடைக்கவில்லை</Item>
 		<Item English_Text = "This will remove all Copy Entries!\n\nContinue?" ID = "Remove_All">இது எல்லா நகல் உள்ளீடுகளையும் அகற்றும்! \n\n தொடரவா?</Item>
 		<Item English_Text = "Disconnect from Clipboard" ID = "Disconnect_Clipboard">இடைநிலைப் பலகைபோர்டிலிருந்து துண்டிக்கவும்</Item>
 		<Item English_Text = "Connect to Clipboard" ID = "Connect_Clipboard">இடைநிலைப் பலகைபோர்டுடன் இணைக்கவும்</Item>
-		<Item English_Text = "Unable to initialize DAO/Jet db engine.  DAO will now be installed.\n\nRestart Ditto after installation of DAO." ID = "Error_Init_Dao_Intall">DAO/Jet db இயந்திரத்தை துவக்க முடியவில்லை. DAO இப்போது நிறுவப்படும். \n\n DAO ஐ நிறுவிய பின் அமோதியை மீண்டும் தொடங்கவும்</Item>
+		<Item English_Text = "Unable to initialize DAO/Jet db engine.  DAO will now be installed.\n\nRestart Ditto after installation of DAO." ID = "Error_Init_Dao_Intall">DAO/Jet db இயந்திரத்தை துவக்க முடியவில்லை. DAO இப்போது நிறுவப்படும். \n\n DAO ஐ நிறுவிய பின் மேற்படியேயை மீண்டும் தொடங்கவும்</Item>
 		<Item English_Text = "NO TARGET" ID = "No_Target">இல்லை இலக்கு</Item>
 	
 		//New strings added in 3.6 6-9-06
@@ -354,15 +354,15 @@
 		<Item English_Text = "Error saving clip" ID = "ErrorSaving">இடைநிலைப் பலகையைச் சேமிப்பதில் பிழை</Item>
 		<Item English_Text = "New" ID = "New">புதிய</Item>
 		<Item English_Text = "Save, Close and place on clipboard" ID = "Save_Close">இடைநிலைப் பலகைபோர்டில் சேமிக்கவும், மூடவும் மற்றும் வைக்கவும்</Item>
-		<Item English_Text = "Ditto Edit" ID = "Ditto_Edit">அமோதி திருத்து</Item>
-		<Item English_Text = "Ditto - Named Paste" ID = "Named_Paste_Title">அமோதி - பெயரிடப்பட்ட ஒட்டு</Item>
+		<Item English_Text = "Ditto Edit" ID = "Ditto_Edit">மேற்படியே திருத்து</Item>
+		<Item English_Text = "Ditto - Named Paste" ID = "Named_Paste_Title">மேற்படியே - பெயரிடப்பட்ட ஒட்டு</Item>
 		<Item English_Text = "Error loading data" ID = "Named_Paste_Error1">தரவை ஏற்றுவதில் பிழை</Item>
 		<Item English_Text = "Error finding clip with QuickPaste Text of" ID = "Named_Paste_Error2">குவிக்பேஸ்ட் உரையுடன் இடைநிலைப் பலகையைக் கண்டுபிடிப்பதில் பிழை</Item>
 		<Item English_Text = "Exception finding the clip" ID = "Named_Paste_Error3">இடைநிலைப் பலகையைக் கண்டுபிடிக்கும் விதிவிலக்கு</Item>
-		<Item English_Text = "Ditto - Named Copy" ID = "Named_Copy_Title">அமோதி - பெயரிடப்பட்ட நகல்</Item>
+		<Item English_Text = "Ditto - Named Copy" ID = "Named_Copy_Title">மேற்படியே - பெயரிடப்பட்ட நகல்</Item>
 		<Item English_Text = "Error saving Named Copy to Database" ID = "Named_Copy_Error1">பெயரிடப்பட்ட நகலை தரவுத்தளத்தில் சேமிப்பதில் பிழை</Item>
 		<Item English_Text = "Exception saving Named Copy" ID = "Named_Copy_Error2">விதிவிலக்கு சேமிப்பு பெயரிடப்பட்ட நகல்</Item>
-		<Item English_Text = "Ditto did not receive a copy" ID = "Named_Copy_Error3">அமோதி நகலைப் பெறவில்லை</Item> 
+		<Item English_Text = "Ditto did not receive a copy" ID = "Named_Copy_Error3">மேற்படியே நகலைப் பெறவில்லை</Item> 
 		//New strings added in 3.17 2-28-10
 		<Item English_Text = "Add-Ins" ID = "Add_Ins">துணை நிரல்கள்</Item> 
 		<Item English_Text = "Copy Buffers" ID = "CopyBuffers">நகலெடுக்கும் இடையகங்கள்</Item>
@@ -378,7 +378,7 @@
 		<Item English_Text = "Command" ID = "QPCommand">கட்டளை</Item>
 		<Item English_Text = "[Always on top]" ID = "top_most">[எப்போதும் மேலே]</Item>
 		<Item English_Text = "[Disconnected]" ID = "disconnected">[துண்டிக்கப்பட்டது]</Item>
-		<Item English_Text = "Ditto is running minimized, Ditto can be opened by hot keys or by clicking the task tray icon" ID = "StartuMsg">அமோதி குறைக்கப்படுகிறது, அமோதியை சூடான விசைகள் மூலம் திறக்கலாம் அல்லது பணி தட்டு ஐகானைக் கிளிக் செய்வதன் மூலம்</Item>
+		<Item English_Text = "Ditto is running minimized, Ditto can be opened by hot keys or by clicking the task tray icon" ID = "StartuMsg">மேற்படியே குறைக்கப்படுகிறது, மேற்படியேயை சூடான விசைகள் மூலம் திறக்கலாம் அல்லது பணி தட்டு ஐகானைக் கிளிக் செய்வதன் மூலம்</Item>
 		<Item English_Text = "There are no results for" ID = "NoSearchResults">இதற்க்கான முடிவுகள் எதுவும் இல்லை</Item>
 		<Item English_Text = "Warning this can take quite a long time and require up to double the hard drive space as your current database size, Continue?" ID = "CompactRepairWarning">இதை எச்சரிக்க அதிக நேரம் ஆகலாம் மற்றும் உங்கள் தற்போதைய தரவுத்தள அளவாக வன் இடத்தை இரட்டிப்பாக்க வேண்டும், தொடரவா?</Item>	
 		<Item English_Text = "Prompt For Name" ID = "prompt_for_name"></Item>
@@ -455,7 +455,7 @@
 	//Added 1/10/15
 	<Ditto_DeleteClipData>
 		<Item English_Text = "Delete Clip Data" ID = "-1">இடைநிலைப் பலகை தரவை நீக்கு</Item>
-		<Item English_Text = "Each clip in Ditto is made of multiple clipboard items, all clipboard items in Ditto are listed below." ID = "2126">அமோதியில் உள்ள ஒவ்வொரு இடைநிலைப் பலகைபும் பல இடைநிலைப் பலகைபோர்டு உருப்படிகளால் ஆனது, அமோதியில் உள்ள அனைத்து இடைநிலைப் பலகைபோர்டு உருப்படிகளும் கீழே பட்டியலிடப்பட்டுள்ளன.</Item>
+		<Item English_Text = "Each clip in Ditto is made of multiple clipboard items, all clipboard items in Ditto are listed below." ID = "2126">மேற்படியேயில் உள்ள ஒவ்வொரு இடைநிலைப் பலகைபும் பல இடைநிலைப் பலகைபோர்டு உருப்படிகளால் ஆனது, மேற்படியேயில் உள்ள அனைத்து இடைநிலைப் பலகைபோர்டு உருப்படிகளும் கீழே பட்டியலிடப்பட்டுள்ளன.</Item>
 		<Item English_Text = "Search Options" ID = "2120">தேடல் விருப்பங்கள்</Item>
 		<Item English_Text = "Title" ID = "1042">தலைப்பு</Item>
 		<Item English_Text = "Create Date Range" ID = "1043">தேதி வரம்பை உருவாக்கு</Item>
