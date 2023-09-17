@@ -1,0 +1,7 @@
+# In the root run:
+git config core.symlinks true
+
+# Now run cmd.exe as administrator¹ and cd to .github. Make your symlink:
+mkdir .github
+cd .github
+mklink ReadMe.md ..\portable
